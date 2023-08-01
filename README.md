@@ -1,2 +1,2 @@
 # SushiMan
-A Responsive Ecommerce Japanese Food delivery website made using HTML and CSS
+A Responsive Ecommerce Japanese Food delivery website made using HTML, CSS, JS
